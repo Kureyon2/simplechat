@@ -1,5 +1,5 @@
+# Day02 課題2 修正後
 import json
-# 課題2 修正後
 import urllib.request
 
 def lambda_handler(event, context):
